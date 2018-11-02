@@ -10,3 +10,8 @@ name = input('What is your name? ')
 print(name)
 
 
+# reassigning the variable
+
+name = 'Bhagyaraj Chitoth'
+
+print(name)
