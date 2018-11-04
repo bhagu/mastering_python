@@ -1,6 +1,6 @@
 '''
     This script has been created as part of the introduction to python training by microsoft virtual academy
-    This section covers how to handle files
+    This section covers how to write to files
 '''
 
 fileName = 'demo.txt'
