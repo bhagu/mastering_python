@@ -15,3 +15,9 @@ print(name)
 name = 'Bhagyaraj Chitoth'
 
 print(name)
+
+message = 'Python is Awesome!'
+print(message.upper())
+
+print(message)
+
