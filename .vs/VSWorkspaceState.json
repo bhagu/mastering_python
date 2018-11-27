@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     "\\python_fundamentals\\files_and_resource_management"
   ],
+=======
+    ""
+  ],
+  "SelectedNode": "\\data_structures_and_algorithms",
+>>>>>>> master
   "PreviewInSolutionExplorer": false
 }
